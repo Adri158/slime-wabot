@@ -1,3 +1,6 @@
+// Mau ngapain lu ajg:)
+// Jangan diedit yah anak ajg:)
+
 let fs = require('fs')
 let chalk = require('chalk')
 let util = require('util')
