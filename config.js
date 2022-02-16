@@ -7,6 +7,7 @@
 // thank you to zerochanBot
 // thank you to fernazer
 // thank you to MikeBot Dev Team
+// thank you to kannachann
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 let fs = require('fs')
