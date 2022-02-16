@@ -27,7 +27,7 @@
 
 ## FOR DEPLOY REPLIT USER
 
-[![Run on Replit](https://repl.it/badge/github/FadliDarmawan/haruno)](https://replit/github/Adri158/slime-wabot/)
+[![Run on Replit](https://repl.it/badge/github/FadliDarmawan/haruno)](https://rep.lit/github/Adri158/slime-wabot/)
 ```cmd
 Open Console
 ------------
