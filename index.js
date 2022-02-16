@@ -1,4 +1,6 @@
-console.log('🕔 Starting...')
+// lu mau lihat apa babi? mau kelahi? ayok chat gw babi https://wa.me/6281354079196
+
+console.log('🕔 SABAR YAH BABI, LAGI STARTING🗿...')
 let { spawn } = require('child_process')
 let path = require('path')
 let fs = require('fs')
