@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/b9782a13ff6a00518a280.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/a5146f6e28d4400312aae.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Slime BOT</h1>
 
