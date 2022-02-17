@@ -165,5 +165,3 @@ Pencipta ama penulis ulang nya jangan dihapus yah:), kalau lu hapus besok yatim 
 ----|----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann) | [Adri](https://github.com/Adri158)
  Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 |Penulis ulang Ke-3
-
-P gw gabut
