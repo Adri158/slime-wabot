@@ -159,7 +159,7 @@ conn.logger.level = 'debug'
 ```
 
 ---------
-
+// Pencipta ama penulis ulang nya jangan dihapus yah:), kalau lu hapus besok yatim:)
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) | [![Adri158](https://github.com/Adri158.png?size=100)](https://github.com/Adri158)
 ----|----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann) | [Adri](https://github.com/Adri158)
